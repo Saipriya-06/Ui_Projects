@@ -1,0 +1,39 @@
+.card{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+    width: 300px;
+    justify-content: space-around;
+
+}
+
+h3{
+    color: orange;
+    font-weight: bold;
+    text-align: left;
+}
+a{
+    text-decoration: none;
+    color:rgb(90, 148, 222);
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-start;
+
+}
+img{
+    width: 120px;
+    height: 150px;
+    border-radius: 10px;
+}
+.head{
+    color:white;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
